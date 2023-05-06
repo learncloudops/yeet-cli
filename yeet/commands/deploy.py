@@ -11,4 +11,3 @@ def cli(into: str, service: str = 'all'):
     click.echo(f'Y33ting the build into {into}')
     click.echo('')
     click.echo('')
-cd ../
